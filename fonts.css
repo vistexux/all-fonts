@@ -1,0 +1,14 @@
+/* SAP-icons */
+@font-face {
+    font-family:"SAP-icons";
+    src: url('fonts/SAP-icons.woff2');
+    font-weight: normal;
+    font-style: normal;
+
+/* 72 */
+@font-face {
+    font-family: '72';
+    src: url('fonts/72-Regular.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
