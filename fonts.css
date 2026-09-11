@@ -1,96 +1,96 @@
 /* SAP-icons */
 @font-face {
     font-family:"SAP-icons";
-    src: url('fonts/SAP-icons.woff2');
+    src: url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/SAP-icons.woff2');
     font-weight: normal;
     font-style: normal;
 
 /* 72 */
 @font-face {
     font-family: '72';
-    src: url('fonts/72-Regular.woff2');
+    src: url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Regular.woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family:'72full';
-    src:url('fonts/72-Regular-full.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Regular-full.woff2');
     font-style: normal;
     font-weight: 400;
 }
 @font-face {
     font-family:'72';
-    src:url('fonts/72-Bold.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Bold.woff2');
     font-style: normal;
     font-weight: 700;
 }
 @font-face {
     font-family:'72full';
-    src:url('fonts/72-Bold-full.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Bold-full.woff2');
     font-style: normal;
     font-weight: 700;
 }
 @font-face {
     font-family:'72';
-    src:url('fonts/72-Light.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Light.woff2');
     font-style: normal;
     font-weight: 300;
 }
 @font-face {
     font-family:'72full';
-    src:url('fonts/72-Light-full.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Light-full.woff2');
     font-style: normal;
     font-weight: 300;
 }
 @font-face {
     font-family:'72-Bold';
-    src:url('fonts/72-Bold.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Bold.woff2');
     font-style: normal;
 }
 @font-face {
     font-family:'72-Boldfull';
-    src:url('fonts/72-Bold-full.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Bold-full.woff2');
     font-style: normal;
 }
 @font-face {
     font-family:'72-Light';
-    src:url('fonts/72-Light.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Light.woff2');
     font-style: normal;
 }
 @font-face {
     font-family:'72-Lightfull';
-    src:url('fonts/72-Light-full.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Light-full.woff2');
     font-style: normal;
 }
 @font-face {
     font-family:'72Mono';
-    src:url('fonts/72Mono-Regular.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72Mono-Regular.woff2');
 }
 @font-face {
     font-family:'72Monofull';
-    src:url('fonts/72Mono-Regular-full.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72Mono-Regular-full.woff2');
 }
 @font-face {
     font-family:'72Mono-Bold';
-    src:url('fonts/72Mono-Bold.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72Mono-Bold.woff2');
 }
 @font-face {
     font-family:'72Mono-Boldfull';
-    src:url('fonts/72Mono-Bold-full.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72Mono-Bold-full.woff2');
 }
 @font-face {
     font-family:'72Black';
-    src:url('fonts/72-Black.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Black.woff2');
 }
 @font-face {
     font-family:'72Blackfull';
-    src:url('fonts/72-Black-full.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Black-full.woff2');
 }
 @font-face {
     font-family:'72-SemiboldDuplex';
-    src:url('fonts/72-SemiboldDuplex.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-SemiboldDuplex.woff2');
 }
 @font-face {
     font-family:'72-SemiboldDuplexfull';
-    src:url('fonts/72-SemiboldDuplex-full.woff2');
+    src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-SemiboldDuplex-full.woff2');
 }
