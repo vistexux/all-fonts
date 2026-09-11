@@ -1,2 +1,2 @@
-# vistexux-github.io
-This is a test to load fonts into Axure projects
+# All Fonts
+This is a test project to load fonts into Axure projects
