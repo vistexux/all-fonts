@@ -13,90 +13,90 @@
 
 /* 72 */
 @font-face {
-    font-family: '72';
+    font-family:"72";
     src: url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Regular.woff2');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family:'72full';
+    font-family:"72full";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Regular-full.woff2');
     font-style: normal;
     font-weight: 400;
 }
 @font-face {
-    font-family:'72';
+    font-family:"72";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Bold.woff2');
     font-style: normal;
     font-weight: 700;
 }
 @font-face {
-    font-family:'72full';
+    font-family:"72full";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Bold-full.woff2');
     font-style: normal;
     font-weight: 700;
 }
 @font-face {
-    font-family:'72';
+    font-family:"72";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Light.woff2');
     font-style: normal;
     font-weight: 300;
 }
 @font-face {
-    font-family:'72full';
+    font-family:"72full";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Light-full.woff2');
     font-style: normal;
     font-weight: 300;
 }
 @font-face {
-    font-family:'72-Bold';
+    font-family:"72-Bold";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Bold.woff2');
     font-style: normal;
 }
 @font-face {
-    font-family:'72-Boldfull';
+    font-family:"72-Boldfull";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Bold-full.woff2');
     font-style: normal;
 }
 @font-face {
-    font-family:'72-Light';
+    font-family:"72-Light";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Light.woff2');
     font-style: normal;
 }
 @font-face {
-    font-family:'72-Lightfull';
+    font-family:"72-Lightfull";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Light-full.woff2');
     font-style: normal;
 }
 @font-face {
-    font-family:'72Mono';
+    font-family:"72Mono";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72Mono-Regular.woff2');
 }
 @font-face {
-    font-family:'72Monofull';
+    font-family:"72Monofull";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72Mono-Regular-full.woff2');
 }
 @font-face {
-    font-family:'72Mono-Bold';
+    font-family:"72Mono-Bold";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72Mono-Bold.woff2');
 }
 @font-face {
-    font-family:'72Mono-Boldfull';
+    font-family:"72Mono-Boldfull";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72Mono-Bold-full.woff2');
 }
 @font-face {
-    font-family:'72Black';
+    font-family:"72Black";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Black.woff2');
 }
 @font-face {
-    font-family:'72Blackfull';
+    font-family:"72Blackfull";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-Black-full.woff2');
 }
 @font-face {
-    font-family:'72-SemiboldDuplex';
+    font-family:"72-SemiboldDuplex";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-SemiboldDuplex.woff2');
 }
 @font-face {
-    font-family:'72-SemiboldDuplexfull';
+    font-family:"72-SemiboldDuplexfull";
     src:url('https://ui5.sap.com/resources/sap/ui/core/themes/sap_horizon/fonts/72-SemiboldDuplex-full.woff2');
 }
