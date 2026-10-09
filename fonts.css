@@ -4,6 +4,19 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css');
 @import url('https://fonts.googleapis.com/css2?family=Material+Icons');
 
+/* GTMS-icons */
+@font-face {
+    font-family: 'GTMS-icons';
+    src:
+        url('fonts/GTMS-icons.woff2?ywtz3n') format('woff2'),
+        url('fonts/GTMS-icons.ttf?ywtz3n') format('truetype'),
+        url('fonts/GTMS-icons.woff?ywtz3n') format('woff'),
+        url('fonts/GTMS-icons.svg?ywtz3n#GTMS-icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
 /* SAP-icons */
 @font-face {
     font-family:"SAP-icons";
