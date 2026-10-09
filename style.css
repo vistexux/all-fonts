@@ -2,3 +2,6 @@
 .sap-72 { font-family: '72' !important; }
 .roboto { font-family: 'Roboto' !important; }
 .source-sans-pro { font-family: 'Source Sans Pro' !important; }
+.gtms-scale:before {
+  content: "\f012";
+}
