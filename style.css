@@ -2,6 +2,20 @@
 .sap-72 { font-family: '72' !important; }
 .roboto { font-family: 'Roboto' !important; }
 .source-sans-pro { font-family: 'Source Sans Pro' !important; }
+[class^="gtms-"], [class*=" gtms-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'GTMS-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 .gtms-scale:before {
   content: "\f012";
 }
